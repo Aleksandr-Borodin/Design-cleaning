@@ -1,0 +1,140 @@
+body {
+  margin: 0;
+}
+h1 {
+  margin: 31px auto 6px;
+  text-align: center;  
+  width: 500px;
+}
+h1 a {
+  color: #369eab;
+  font: bold 3em 'Lucida Console';
+  text-shadow: rgba(0,0,0, .5) 2px 2px;
+}
+a {
+  text-decoration: none;
+}
+h4 {
+  color: #080808;
+  font: 1.2em Tahoma;
+  margin: 0 auto 27px;
+  text-align: center;
+  text-shadow: #d2d2d2 1px 1px;
+}
+nav {
+  border-top:  1px dotted #1d1d1d;
+  border-bottom: 1px dotted #1d1d1d;
+  margin: 0 auto 8px;
+  text-align: center;
+  width: 350px;
+  }
+nav a {
+  color: #1d1d1d;
+  display: inline-block;
+  font: 1.7em Tahoma;
+  margin: 2px 5px;
+}
+nav a:hover {
+  color: #79c4ca;
+  transition: color .1s ease-out;
+}
+main {
+  background: blue;
+  height: 70%;
+  position: relative;
+  width: 100%; 
+}
+main img {
+  display: block;
+  width: 100%;
+}
+
+footer {
+  margin: 17px auto 0;
+  text-align: center;  
+  width: 300px;
+}
+footer p {
+  font: italic .8em Arial;
+}
+.et1 {
+  background: rgba(0,0,0, .25);
+  border-radius: 20px;
+  bottom: 0;
+  color: #e8f7fd;
+  height: 350px;
+  left: 0;
+  margin: auto;
+  padding: 0 20px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  text-shadow: #369eab .3px 0;
+  width: 300px;
+}
+h5 {
+  font: 1.7em Tahoma;
+  margin: 10px;
+  text-align: center;
+}
+form p {
+  font: bold 1em Verdana;
+}
+#et2 {
+  font: bold 1.1em Tahoma;
+  text-align: center;
+}
+input[type=text] {
+  width: 50px;
+}
+form p:first-of-type {
+  text-align: center;
+}
+input[type=checkbox] {
+  margin-left: 10px;
+}
+.et1 a {
+  background: radial-gradient(rgba(0,0,0, .2), rgba(0,0,0, .5));
+  border-radius: 20px;
+  color: #e8f7fd;
+  display: block;
+  font: 1.5em Tahoma;
+  margin: 0 -20px;
+  padding: 4px 20px;
+  text-align: center;
+  width: 300px;
+
+}
+.et1 a:hover {
+  background: radial-gradient(rgba(0,0,0, .3), rgba(0,0,0, .7));
+  transition: background .2s ease-in-out;
+}
+.et2 {
+  background: rgba(0,0,0, .5);
+  height: 419px;
+  text-align: center;
+}
+.et2 input[type=text] {
+  width: 150px;
+}
+.abn1 {
+  color: #FFFACD;
+  font: italic 1.2em Verdana;
+}
+.abn2 {
+  font: 1.3em Tahoma;
+}
+.et2 a {
+  margin-top: 7px;
+}
+.et3 {
+  background: rgba(0,0,0, .5);
+  height: 145px;
+  text-align: center;
+}
+.et3 p {
+  font: 1.2em Verdana;
+}
+#abz {
+  font: bold 1.2em Tahoma;  
+}
